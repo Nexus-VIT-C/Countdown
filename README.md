@@ -40,7 +40,7 @@ A sleek, modern countdown timer specifically designed for hackathons and coding 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/hackathon-timer.git
+   git clone https://github.com/Nexus-VIT-C/Countdown.git
    cd hackathon-timer
    ```
 
