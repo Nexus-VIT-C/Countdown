@@ -30,7 +30,7 @@ A sleek, interactive countdown timer web application with an editable interface 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Countdown-Timer.git
+   git clone https://github.com/Nexus-VIT-C/Countdown.git
    ```
 
 2. Navigate to the project directory:
