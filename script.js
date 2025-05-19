@@ -91,7 +91,7 @@ function makeEditable(part) {
       const padded = String(value).padStart(2, '0');
       const div = document.createElement('div');
       div.textContent = padded;
-      div.className = `editable-time text-6xl font-mono select-none ${partName === 'seconds' ? 'text-gray-400' : 'text-white'}`;
+      div.className = `editable-time font-mono select-none ${partName === 'seconds' ? 'text-gray-400' : 'text-white'}`;
       div.dataset.part = partName;
 
       input.replaceWith(div);
